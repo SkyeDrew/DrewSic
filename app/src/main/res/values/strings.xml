@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DrewSic</string>
+    <string name="usr">Username:</string>
+    <string name="btn">log in</string>
+    <string name="newAct">THIS IS THE NEXT ACTIVITY</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="chum">Guest</string>
+    <string name="pass">Password:</string>
+    <string name="down">Downloads</string>
+    <string name="more">More</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="Res">Results</string>
+    <string name="hello_blank_fragment">There is Nothing Downloaded!</string>
+    <string name="play">Last 100 Playlists</string>
+    <string name="imp">Import</string>
+    <string name="abt">About</string>
+    <string name="more_info">Best App to Download All The Latest Jams ^_^ </string>
+</resources>
